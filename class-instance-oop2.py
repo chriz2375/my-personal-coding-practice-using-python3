@@ -88,3 +88,5 @@ print("\nThe vehicle2 is a {} vehicle type that fules only {}".format(truck1.__c
 print("This vehicle is a brand of {} model {} and has a weight capacity of {} pounds".format(truck1.brand, truck1.model, truck1.cargo_cap))
 print("Also, this truck type is {}".format(truck1.__class__.cargo_type))
 truck1(25)
+
+print("Hello world! , this is a test to see how git works when some code are changes! ")
