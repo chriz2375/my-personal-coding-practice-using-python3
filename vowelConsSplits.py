@@ -18,6 +18,7 @@ def vowelConsonants(word: str) -> str:
     vow, cons, = "", ""
     vowel = 'AIEOUaieou'
     
+    
     for i in word:
         if i in vowel:
             vow += i
